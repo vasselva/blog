@@ -2,4 +2,4 @@
 
 Hey I am vasselva!
 
-I am an another iT guy. I am passionated about cyber , new technologies and runner.
+I am an IT guy and passionate about cyber , new technologies and runner.
