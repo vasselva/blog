@@ -5,4 +5,4 @@ nav:
     - Books: books.md
     - About: about.md
 theme:
-    name: litera
+    name: cosmo
