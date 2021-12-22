@@ -1,0 +1,8 @@
+site_name: myBlog
+site_url: http://vasselva.com
+nav:
+    - Introuction: index.md
+    - Books: books.md
+    - About: about.md
+theme:
+    name: litera
