@@ -8,5 +8,4 @@ Book by Richard Carlson
 | ----------- | ----------- |
 |![books](./books/stop-thinking.png)|This Book helped me to reduce my stress and focus on present rather than living at past. Highly recommended for someone to reduce the noise in the head|
 
-
-## Four hour work week
+## [Show your work](./books/stop-thinking-start-living.md)
