@@ -10,4 +10,13 @@ This Book helped me to reduce my stress and focus on present rather than living 
 
 ______
 
-## [Show your work](./books/stop-thinking-start-living.md)
+## [Show your work](./books/Show-your-work.md)
+*Book by Austin Kleon*
+
+![Show your work](./books/show-your-work.jpeg)
+
+This book helped me to start this site, video blog and share something
+
+______
+
+
