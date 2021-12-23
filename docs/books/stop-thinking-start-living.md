@@ -4,16 +4,16 @@ Intro of the Books
 
 ![books](./stop-thinking.png)
 
-# Short Summary
+## Short Summary
 
-Author explains about How to enjoy life without constant thinking 
+Author explains about How to enjoy life without constant thinking
 
-- Our thinking keeps the mind busy - Positive and negative thinking
-- For well-being of life - we have to cut down the thinking and live at the present
+    - Our thinking keeps the mind busy - Positive and negative thinking
+    - For well-being of life - we have to cut down the thinking and live at the present
 
-## Negative Thinking
+### Negative Thinking
 
-- Worst thing to do
+    - Worst thing to do
     - Thinking all the time and creating the worst-scenario in our mind
     - Negative thinking have worst side effects and not able to live the life to full potential
 
@@ -22,7 +22,7 @@ Author explains about How to enjoy life without constant thinking
 
 </aside>
 
-## What thinks to do stop Over Thinking
+### What thinks to do stop Over Thinking
 
 Steps to follow to stop over thinking
 
@@ -36,7 +36,7 @@ Steps to follow to stop over thinking
 
 </aside>
 
-## Conclusion
+### Conclusion
 
 - Do not think too much
 - You cannot control the past nor predict the future
